@@ -12,7 +12,7 @@ Sigueme en mis redes y hablemos!
 
 ## Tecnologías:
   <p>APEX, LWC, IA, SOQL, DML, TEST, TRIGGER, WRAPPER, Salesforce Platform...</p>
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)]()
+https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 </br>
 [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
