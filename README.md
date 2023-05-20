@@ -12,21 +12,6 @@ Sigueme en mis redes y hablemos!
 
 ## Tecnologías:
   <p>APEX, LWC, IA, SOQL, DML, TEST, TRIGGER, WRAPPER, Salesforce Platform...</p>
-https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
-</br>
-[![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
-[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)]()
-[![]()]()
-</br>
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
- </br>
 Y alguna más...
 
 ## Encuéntrame en:
@@ -38,7 +23,7 @@ Y alguna más...
 
 ## Algunos vídeos en YouTube:
 
-<table style="width:100%">
+<table style="width:50%">
 <tr>
 <td>
 <a href="https://www.youtube.com/watch?v=Ktlk5AVDtMU">
@@ -49,10 +34,6 @@ Y alguna más...
 
 
 
-## Contacto y apoyo:
-
-</br>
-[![Email](https://img.shields.io/badge/belenbanegasbanegas@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 
 
 <!--
