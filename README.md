@@ -34,7 +34,7 @@ Y alguna más...
   
 [![YouTube](https://img.shields.io/badge/YouTube-BelenBaneg-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@Belenbaneg/videos)
 
-[![TrailHead](img src="https://img.shields.io/badge/TrailHead-00A1E0.svg?&style=for-the-badge&logo=Salesforce&logoColor=white")](https://trailblazer.me/id/bbanegas)
+![TrailHead](img src="https://img.shields.io/badge/TrailHead-00A1E0.svg?&style=for-the-badge&logo=Salesforce&logoColor=white")(https://trailblazer.me/id/bbanegas)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Belen_Banegas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/belen-banegas-a33830a7/)
