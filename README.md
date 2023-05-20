@@ -1,6 +1,6 @@
 ### Bienvenid@ ! Espero que andes bien 👋
 
-⚡ Soy Belen me especializo como Salesforce Developer, abogada, y me gusta estar al tanto de las nuevas novedades de IA para probarlas y divertirme sacando provecho de ellas. Me gusta asumir nuevos objetivos para crecer y mejorar mis habilidades.
+⚡ Soy Belen Salesforce Developer, abogada, y me gusta estar al tanto de las nuevas novedades de IA para probarlas y divertirme sacando provecho de ellas. Me gusta asumir nuevos objetivos para crecer y mejorar mis habilidades. 
 
 Sigueme en mis redes y hablemos!
 <h3 align="left">Connect with me:</h3>
