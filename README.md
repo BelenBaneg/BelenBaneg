@@ -27,13 +27,14 @@ Y alguna más...
 ![Trello](https://img.shields.io/badge/Trello-yellow?style=flat-square&logo=trello)
 
 
-
 ## Encuéntrame en:
 
+<p align="center" align='right'>
 [![YouTube](https://img.shields.io/badge/YouTube-BelenBanegas-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@Belenbaneg/videos)
-[![Salesforce](https://img.shields.io/badge/Salesforce-Trailblazer-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://trailblazer.me/id/bbanegas)
+<a target="_blank"href="https://trailblazer.me/id/bbanegas"><img src="https://img.shields.io/badge/TrailHead-00A1E0.svg?&style=for-the-badge&logo=Salesforce&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Belen_Banegas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/belen-banegas-a33830a7/)
-
+<a href="mailto:belenbanegasbanegas@gmail.com?subject=Hello%20Brian,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ## Algunos vídeos en YouTube:
 
