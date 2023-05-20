@@ -21,6 +21,7 @@ Y alguna más...
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+</br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Apex](https://img.shields.io/badge/Apex-green?style=flat-square&logo=Apex)
 ![Trello](https://img.shields.io/badge/Trello-yellow?style=flat-square&logo=trello)
