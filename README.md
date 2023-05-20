@@ -6,7 +6,7 @@ Sigueme en mis redes y hablemos!
 👯 https://www.linkedin.com/in/belen-banegas-a33830a7/
 👯 https://trailblazer.me/id/bbanegas
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/Belenbanegapps?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/Belenbaneg)
 ![GitHub Followers](https://img.shields.io/github/followers/BelenBaneg?style=social)
 
 
