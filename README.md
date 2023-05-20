@@ -32,9 +32,8 @@ Y alguna más...
 ## Encuéntrame en:
 
 [![YouTube](https://img.shields.io/badge/YouTube-BelenBanegas-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@Belenbaneg/videos)
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredevtv)
-[![Salesforce](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://trailblazer.me/id/bbanegas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/belen-banegas-a33830a7/)
+[![Salesforce](https://img.shields.io/badge/Link_Site-Trailblazer-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://trailblazer.me/id/bbanegas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Belen-Banegas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/belen-banegas-a33830a7/)
 
 
 ## Algunos vídeos en YouTube:
