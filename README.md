@@ -1,4 +1,10 @@
-### Hi there 👋
+### Bienvenid@ ! Espero que andes bien 👋
+
+⚡ Soy Belen me especializo como Salesforce Developer, abogada, y me gusta estar al tanto de las nuevas novedades de IA para probarlas y divertirme sacando provecho de ellas. Me gusta asumir nuevos objetivos para crecer y mejorar mis habilidades.
+
+Sigueme en mis redes y hablemos!
+👯 https://www.linkedin.com/in/belen-banegas-a33830a7/
+👯 https://trailblazer.me/id/bbanegas
 
 <!--
 **BelenBaneg/BelenBaneg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
