@@ -41,7 +41,7 @@ Y alguna más...
 <tr>
 <td>
 <a href="https://www.youtube.com/watch?v=Ktlk5AVDtMU">
-<img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109602138713231380/Red_Colorful_Tips_Youtube_Thumbnail_1.png" size="3">
+<img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109602138713231380/Red_Colorful_Tips_Youtube_Thumbnail_1.png" width="295">
 </a>
 </td>
 </table>
