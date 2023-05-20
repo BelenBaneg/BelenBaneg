@@ -25,6 +25,7 @@ Y alguna más...
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Apex](https://img.shields.io/badge/Apex-green?style=flat-square&logo=Apex)
 ![Trello](https://img.shields.io/badge/Trello-yellow?style=flat-square&logo=trello)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 
 ## Encuéntrame en:
