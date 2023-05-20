@@ -5,9 +5,7 @@
 Sigueme en mis redes y hablemos!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/belen-banegas-a33830a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/belen-banegas-a33830a7/" height="30" width="40" /></a>
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/Belenbaneg)
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/belen-banegas-a33830a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/belen-banegas-a33830a7/" height="30" width="40" /></a> [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/Belenbaneg)
 ![GitHub Followers](https://img.shields.io/github/followers/BelenBaneg?style=social)
 
 
@@ -31,7 +29,7 @@ Y alguna más...
 <tr>
 <td>
 <a href="https://www.youtube.com/watch?v=Ktlk5AVDtMU">
-<img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109602138713231380/Red_Colorful_Tips_Youtube_Thumbnail_1.png">
+<img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109602138713231380/Red_Colorful_Tips_Youtube_Thumbnail_1.png" size="3">
 </a>
 </td>
 </table>
