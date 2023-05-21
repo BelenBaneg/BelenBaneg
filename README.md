@@ -56,28 +56,34 @@ Y alguna más...
 
 
 
-public with sharing class SalesforceDeveloper {
+```public with sharing class SalesforceDeveloper {
+
     @AuraEnabled(Cacheable=true)
     public static Salesforce_Developer__c getSalesforceDeveloper(Id BelenBanegasId) {
+
 		return [
             SELECT Name, Linkedin__c, Email, Skills__c, Company__c
 			FROM Salesforce_Developer__c
 			WHERE Id =: BelenBanegasId
         ]
     }
-}
+}```cls
 
-import { LightningElement, wire, api } from 'lwc';
+
+```import { LightningElement, wire, api } from 'lwc';
 import getSalesforceDeveloper from '@salesforce/apex/SalesforceDeveloper.getSalesforceDeveloper';
 import { publish, MessageContext } from 'lightning/messageService';
 import Hiring from '@salesforce/messageChannel/HiringMessageChannel__c';
 import { ShowToastEvent } from 'lightning/platformShowToastEvent'
 
-export default class ResouceAllocation extends LightningElement {	
+export default class ResouceAllocation extends LightningElement {
+	
 	@wire(MessageContext)
 	@api
 	BelenBanegasId;
 	hired;
+	
+
 	@wire(getSalesforceDeveloper, { BelenBanegasId: '005Dp000002JTwJIAW' })
 	_getSalesforceDeveloper({data, error}) {
 		if (data) {
@@ -89,17 +95,22 @@ export default class ResouceAllocation extends LightningElement {
 				'SOQL', 'DML', 'GIT & GITHUB', 'Test', 'Google Calendar', 'Notion', 'Trello', 'Prompt Engineering', 'Other'],
 		        Company__c: undefined	
 			}
+
 			this.handleDevSelect();
+
 			this.error = undefined;
 		} else {
 			this.error = error;
 			this.hired = undefined;
 		}
 	}
+	
 	handleDevSelect() {
         const payload = {`Has seleccionado el Perfil de ${hired.Name} como su Salesforce Developer` };
+
         publish(this.messageContext, Hiring, payload);
     }
+
 	showSuccess() {
         const event = new ShowToastEvent({
             title: 'Gratitude',
@@ -108,7 +119,7 @@ export default class ResouceAllocation extends LightningElement {
         });
         this.dispatchEvent(event);
     }
-}
+}```js
 
 
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=belenbaneg&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="left" width="295">
