@@ -55,6 +55,7 @@ Y alguna más...
 </table>
 
 
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=belenbaneg&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="left" width="295">
 
 ```public with sharing class SalesforceDeveloper {
 
@@ -67,10 +68,9 @@ Y alguna más...
 			WHERE Id =: BelenBanegasId
         ]
     }
-}```cls
+}
 
-
-```import { LightningElement, wire, api } from 'lwc';
+import { LightningElement, wire, api } from 'lwc';
 import getSalesforceDeveloper from '@salesforce/apex/SalesforceDeveloper.getSalesforceDeveloper';
 import { publish, MessageContext } from 'lightning/messageService';
 import Hiring from '@salesforce/messageChannel/HiringMessageChannel__c';
@@ -119,26 +119,8 @@ export default class ResouceAllocation extends LightningElement {
         });
         this.dispatchEvent(event);
     }
-}```js
-
-
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=belenbaneg&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="left" width="295">
+}```
 
 
 
 
-
-<!--
-**BelenBaneg/BelenBaneg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
