@@ -60,7 +60,7 @@ public with sharing class SalesforceDeveloper {
     public static Salesforce_Developer__c getSalesforceDeveloper(Id BelenBanegasId) {
 
 		return [
-            SELECT Name, Linkedin__c, Email, Skills__c, Company__c
+                        SELECT Name, Linkedin__c, Email, Skills__c, Company__c
 			FROM Salesforce_Developer__c
 			WHERE Id =: BelenBanegasId
         ]
@@ -92,7 +92,7 @@ export default class Dev extends LightningElement {
 				Email: 'belenbanegasbanegas@gmail.com',
 				Skills__c: ['Salesforce Platform', 'APEX', 'Trigger', 'LWC', 'Flow', 
 				'SOQL', 'DML', 'GIT & GITHUB', 'Test', 'Google Calendar', 'Notion', 'Trello', 'Prompt Engineering', 'Other'],
-		        Company__c: undefined	
+		                Company__c: undefined	
 			}
 
 			this.handleDevSelect();
