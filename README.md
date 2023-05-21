@@ -1,4 +1,4 @@
- <h2 align="center"><img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109659708530364476/9bce80b5-4776-44fd-be04-e8b1d5315fac-removebg-preview.png" height="50" width="50"> Bienvenid@ ! Espero que andes bien 👋</h2>
+ <h2 align="center"><img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109659708530364476/9bce80b5-4776-44fd-be04-e8b1d5315fac-removebg-preview.png" width="15%"> Bienvenid@ ! Espero que andes bien 👋</h2>
 
 ⚡ Soy Belen Salesforce Developer, abogada, y me gusta estar al tanto de las nuevas novedades de IA para probarlas y divertirme sacando provecho de ellas. Me gusta asumir nuevos objetivos para crecer y mejorar mis habilidades. Te invito a seguirme en mis redes y hablar un rato!
 
