@@ -1,6 +1,6 @@
 ### Bienvenid@ ! Espero que andes bien 👋
 
-<img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109659708530364476/9bce80b5-4776-44fd-be04-e8b1d5315fac-removebg-preview.png" width="20%">⚡ Soy Belen Salesforce Developer, abogada, y me gusta estar al tanto de las nuevas novedades de IA para probarlas y divertirme sacando provecho de ellas. Me gusta asumir nuevos objetivos para crecer y mejorar mis habilidades. 
+<img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109659708530364476/9bce80b5-4776-44fd-be04-e8b1d5315fac-removebg-preview.png" width="10%">⚡ Soy Belen Salesforce Developer, abogada, y me gusta estar al tanto de las nuevas novedades de IA para probarlas y divertirme sacando provecho de ellas. Me gusta asumir nuevos objetivos para crecer y mejorar mis habilidades. 
 
 <h3 align="left">Sigueme en mis redes y hablemos!</h3>
 <p align="left">
