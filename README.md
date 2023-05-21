@@ -54,6 +54,8 @@ Y alguna más...
 </td>
 </table>
 
+
+
 public with sharing class SalesforceDeveloper {
 
     @AuraEnabled(Cacheable=true)
@@ -69,10 +71,15 @@ public with sharing class SalesforceDeveloper {
 
 
 import { LightningElement, wire, api } from 'lwc';
+
 import getSalesforceDeveloper from '@salesforce/apex/SalesforceDeveloper.getSalesforceDeveloper';
+
 import { publish, MessageContext } from 'lightning/messageService';
+
 import Hiring from '@salesforce/messageChannel/HiringMessageChannel__c';
+
 import { ShowToastEvent } from 'lightning/platformShowToastEvent'
+
 
 export default class ResouceAllocation extends LightningElement {
 	
