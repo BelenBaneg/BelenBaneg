@@ -77,7 +77,7 @@ import { publish, MessageContext } from 'lightning/messageService';
 import Hiring from '@salesforce/messageChannel/HiringMessageChannel__c';
 import { ShowToastEvent } from 'lightning/platformShowToastEvent'
 
-export default class ResouceAllocation extends LightningElement {
+export default class Dev extends LightningElement {
 	
 	@wire(MessageContext)
 	@api
