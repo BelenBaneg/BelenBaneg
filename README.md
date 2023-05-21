@@ -1,6 +1,7 @@
- <h2 align="center"><img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109659708530364476/9bce80b5-4776-44fd-be04-e8b1d5315fac-removebg-preview.png" width="15%"> Bienvenid@ ! Espero que andes bien 👋 <img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109659708530364476/9bce80b5-4776-44fd-be04-e8b1d5315fac-removebg-preview.png" width="15%"></h2>
+ <h2 align="center"><img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109659708530364476/9bce80b5-4776-44fd-be04-e8b1d5315fac-removebg-preview.png" width="15%"> Bienvenid@ ! 👋 <img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109659708530364476/9bce80b5-4776-44fd-be04-e8b1d5315fac-removebg-preview.png" width="15%"></h2>
 
-⚡ Me dicen Belen 👋 y espero que estes teniendo un dia excelente. Me inclino hacia una vision innovadora, apasionada por conquistar los objetivos, superarme dia a dia y enfocarme en las mejores soluciones personalizadas para cada cliente. Soy Salesforce Developer, abogada y una persona que disfruta explorar las nuevas herramientas que nos da la inteligencia artificial. Te invito a seguirme en mis redes y hablar un rato!⚡
+⚡ Me dicen Belen 👋 y espero que estes teniendo un dia excelente. Me inclino hacia una vision innovadora, apasionada por conquistar los objetivos, superarme dia a dia y enfocarme en las mejores soluciones personalizadas para cada cliente. Soy Salesforce Developer, abogada y una persona que disfruta explorar las nuevas herramientas que nos da la inteligencia artificial. 
+Te invito a seguirme en mis redes y hablar un rato sobre el mundo IT!⚡
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/Belenbaneg) 
 ![GitHub Followers](https://img.shields.io/github/followers/BelenBaneg?style=social)
