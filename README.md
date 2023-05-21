@@ -120,7 +120,8 @@ export default class ResouceAllocation extends LightningElement {
         });
         this.dispatchEvent(event);
     }
-}```
+}
+```
 
 
 
