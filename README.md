@@ -57,10 +57,8 @@ Y alguna más...
 
 
 public with sharing class SalesforceDeveloper {
-
     @AuraEnabled(Cacheable=true)
     public static Salesforce_Developer__c getSalesforceDeveloper(Id BelenBanegasId) {
-
 		return [
             SELECT Name, Linkedin__c, Email, Skills__c, Company__c
 			FROM Salesforce_Developer__c
@@ -69,26 +67,17 @@ public with sharing class SalesforceDeveloper {
     }
 }
 
-
 import { LightningElement, wire, api } from 'lwc';
-
 import getSalesforceDeveloper from '@salesforce/apex/SalesforceDeveloper.getSalesforceDeveloper';
-
 import { publish, MessageContext } from 'lightning/messageService';
-
 import Hiring from '@salesforce/messageChannel/HiringMessageChannel__c';
-
 import { ShowToastEvent } from 'lightning/platformShowToastEvent'
 
-
-export default class ResouceAllocation extends LightningElement {
-	
+export default class ResouceAllocation extends LightningElement {	
 	@wire(MessageContext)
 	@api
 	BelenBanegasId;
 	hired;
-	
-
 	@wire(getSalesforceDeveloper, { BelenBanegasId: '005Dp000002JTwJIAW' })
 	_getSalesforceDeveloper({data, error}) {
 		if (data) {
@@ -100,22 +89,17 @@ export default class ResouceAllocation extends LightningElement {
 				'SOQL', 'DML', 'GIT & GITHUB', 'Test', 'Google Calendar', 'Notion', 'Trello', 'Prompt Engineering', 'Other'],
 		        Company__c: undefined	
 			}
-
 			this.handleDevSelect();
-
 			this.error = undefined;
 		} else {
 			this.error = error;
 			this.hired = undefined;
 		}
 	}
-	
 	handleDevSelect() {
         const payload = {`Has seleccionado el Perfil de ${hired.Name} como su Salesforce Developer` };
-
         publish(this.messageContext, Hiring, payload);
     }
-
 	showSuccess() {
         const event = new ShowToastEvent({
             title: 'Gratitude',
