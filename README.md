@@ -1,10 +1,6 @@
 ### <h2 align="center">Bienvenid@ ! Espero que andes bien 👋</h2>
 
-<img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109659708530364476/9bce80b5-4776-44fd-be04-e8b1d5315fac-removebg-preview.png" width="10%">⚡ Soy Belen Salesforce Developer, abogada, y me gusta estar al tanto de las nuevas novedades de IA para probarlas y divertirme sacando provecho de ellas. Me gusta asumir nuevos objetivos para crecer y mejorar mis habilidades. 
-
-<h3 align="left">Sigueme en mis redes y hablemos!</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/belen-banegas-a33830a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/belen-banegas-a33830a7/" height="30" width="40" /></a> 
+<img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109659708530364476/9bce80b5-4776-44fd-be04-e8b1d5315fac-removebg-preview.png" height="30" width="40">⚡ Soy Belen Salesforce Developer, abogada, y me gusta estar al tanto de las nuevas novedades de IA para probarlas y divertirme sacando provecho de ellas. Me gusta asumir nuevos objetivos para crecer y mejorar mis habilidades. Te invito a seguirme en mis redes y hablar un rato!
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/Belenbaneg) 
 ![GitHub Followers](https://img.shields.io/github/followers/BelenBaneg?style=social)
