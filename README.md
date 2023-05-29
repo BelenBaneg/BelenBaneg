@@ -46,12 +46,12 @@ Y alguna más...
 <tr>
 <td>
 <a href="https://www.youtube.com/watch?v=Ktlk5AVDtMU">
-<img src="https://cdn.discordapp.com/attachments/1087057271776882721/1112551997904785509/Ciber.png" width="300">
+<img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109602138713231380/Red_Colorful_Tips_Youtube_Thumbnail_1.png" width="300">
 </a>
 </td>
 <td>
-<a href="url">
-<img src="https://cdn.discordapp.com/attachments/1087057271776882721/1109602138713231380/Red_Colorful_Tips_Youtube_Thumbnail_1.png" width="300">
+<a href="https://www.youtube.com/watch?v=UhkO84cWTsw">
+<img src="https://cdn.discordapp.com/attachments/1087057271776882721/1112551997904785509/Ciber.png" width="300">
 </a>
 </td>
 <td>
